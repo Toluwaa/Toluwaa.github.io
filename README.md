@@ -1,2 +1,3 @@
-# Toluwaa.github.io
-# I'm just doing some few tests with this repo. Nothing serious.
+# Cookie Notification
+
+Displaying cookie notification in compliance with General Data Protection Regulation (GDPR)
